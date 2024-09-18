@@ -1,4 +1,4 @@
 # Exercicio-02
 
 Nome:
-Felipe Desiglo Ferrare; https://github.com/felipe-fatec/projetando; https://github.com/felipe-fatec/Security
+Felipe Desiglo Ferrare; https://github.com/felipe-fatec/projetando2; https://github.com/felipe-fatec/Security
