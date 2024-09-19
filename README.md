@@ -1,5 +1,4 @@
 # Exercicio-02
 
 Nome:
-Felipe Desiglo Ferrare; https://github.com/felipe-fatec/projetando2; https://github.com/felipe-fatec/Security
-Nome; Repo_01; Repo_02
+Raquel Moreira da Costa; [https://github.com/felipe-fatec/projetando2](https://github.com/Leuquary/projetando2.git);[ https://github.com/felipe-fatec/Security](https://github.com/Leuquary/Security.git)
